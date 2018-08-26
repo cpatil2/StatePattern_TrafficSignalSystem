@@ -1,0 +1,20 @@
+3 Cars Added to North
+3 Cars Added to west
+3 Cars Added to South
+3 Cars Added to east 
+Signal was green so two cars removed from South
+Signal was green so two cars removed from North
+Signal was green so two cars removed from west
+Signal was green so two cars removed from East
+Signal was green so remaining one car removed from North
+Signal was green so remaining one car removed from South
+Signal was green but there was no car on North
+Signal was green so remaining one car removed from West
+Signal was green so remaining one car removed from East
+Signal was green but there was no car on South
+Signal was green but there was no car on North
+Signal was green but there was no car on West
+Signal was green but there was no car on East
+3 Cars Added to west
+3 Cars Added to east 
+Signal was green so two cars removed from East
